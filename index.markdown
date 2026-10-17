@@ -22,9 +22,9 @@ Kunne du trenge noe lignende?
 
 * Ta kontakt på [raae@lillylabs.no](mailto:raae@lillylabs.no).
 
-Vil du følge med på hva Lilly Labs lager nå?
+Ønsker du å følge med på videreutviklingen av Oslohistorier?
 
 * Meld deg på [vårt nyhetsbrev](https://lillylabs.kit.com/c194c5a3eb){: data-formkit-toggle="c194c5a3eb"}.
 
-Oslohistorier ble laget mellom 2016 og 2018. Historiene er fortsatt like gode, men noe av informasjonen kan være utdatert.
+Oslohistorier ble laget mellom 2016 og 2018. Historiene er fortsatt like gode, men noe av informasjonen kan være utdatert. Men plutselig endrer det seg, så meld deg på [nyhetsbrevet](https://lillylabs.kit.com/c194c5a3eb){: data-formkit-toggle="c194c5a3eb"}.
 {: .notice}
