@@ -1,4 +1,6 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "jekyll"
+# Jekyll 4 no longer copies node_modules and the uploads collection into _site
+gem "jekyll", "~> 3.10"
+gem "kramdown-parser-gfm"
