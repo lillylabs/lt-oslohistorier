@@ -365,6 +365,14 @@ nav {
   }
 }
 
+// Links in running text
+.main-content {
+  p a,
+  li a {
+    text-decoration: underline;
+  }
+}
+
 .notice {
   margin-top: 2rem;
   font-size: 80%;

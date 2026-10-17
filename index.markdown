@@ -24,7 +24,7 @@ Kunne du trenge noe lignende?
 
 Vil du følge med på hva Lilly Labs lager nå?
 
-* Meld deg på [vårt nyhetsbrev](https://lillylabs.kit.com/c194c5a3eb).
+* Meld deg på [vårt nyhetsbrev](https://lillylabs.kit.com/c194c5a3eb){: data-formkit-toggle="c194c5a3eb"}.
 
-Oslohistorier ble laget mellom 2016 og 2018 og oppdateres ikke lenger. Turene og lydsporene ligger her som et arkiv, og noe av informasjonen kan være utdatert.
+Oslohistorier ble laget mellom 2016 og 2018. Historiene er fortsatt like gode, men noe av informasjonen kan være utdatert.
 {: .notice}
