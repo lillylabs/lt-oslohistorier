@@ -347,7 +347,7 @@ nav {
   align-items: center;
   justify-content: flex-start;
 
-  a {
+  a, span {
     max-width: 130px;
   }
 
@@ -363,6 +363,12 @@ nav {
       filter: grayscale(0);
     }
   }
+}
+
+.notice {
+  margin-top: 2rem;
+  font-size: 80%;
+  color: #888;
 }
 
 // LAYOUT

@@ -51,7 +51,11 @@
     </section>
     <section class="{{ project.slug }} partners">
       {% for partner in project.partners %}
+        {% if partner.url %}
         <a alt="{{ partner.name }}" href="{{ partner.url }}" style="max-width: {{ partner.max-width }}"><img alt="{{ partner.name }}" src="{{ partner.logo-image }}"></a>
+        {% else %}
+        <span style="max-width: {{ partner.max-width }}"><img alt="{{ partner.name }}" src="{{ partner.logo-image }}"></span>
+        {% endif %}
       {% endfor %}
     </section>
   </div>
