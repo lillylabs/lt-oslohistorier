@@ -2,7 +2,7 @@
   <div class="main-content">
     <nav class="{{ project.slug }}">
       <a ui-sref="home">
-        <i class="fa fa-back"></i>
+        <i class="icon icon-back"></i>
         {{ site.title | newline_to_br }}
       </a>
       <play-button play-next-scope="project" project-id="{{ project.slug }}"></play-button>
@@ -32,9 +32,9 @@
             </div>
             <h1 class="title">{{ article.title | newline_to_br }}</h1>
             <play-button play-next-scope="project" project-id="{{ project.slug }}" article-id="{{ article.slug }}"></play-button>
-            <i ng-if="articles.length > 1" class="fa fa-right"></i>
+            <i ng-if="articles.length > 1" class="icon icon-right"></i>
             {% if article.teaser.size > 1 or article.content.size > 1 %}
-              <i class="fa fa-right"></i>
+              <i class="icon icon-right"></i>
             {% endif %}
           </div>
           {% if article.teaser %}

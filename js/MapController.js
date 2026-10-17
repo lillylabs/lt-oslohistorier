@@ -11,8 +11,11 @@ angular.module('LutterApp')
       },
       tiles: {
         name: 'Positron',
-        url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
-        type: 'xyz'
+        url: 'https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}.png?key=cb1_4n9y_1_97c6ba03db56a8c861aa12c9',
+        type: 'xyz',
+        options: {
+          attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+        }
       },
       markers: {}
     });
