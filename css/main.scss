@@ -358,10 +358,11 @@ nav {
 
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
-    &:hover {
-      -webkit-filter: grayscale(0);
-      filter: grayscale(0);
-    }
+  }
+
+  a:hover img {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
   }
 }
 
