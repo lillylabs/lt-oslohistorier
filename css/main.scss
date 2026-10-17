@@ -347,7 +347,7 @@ nav {
   align-items: center;
   justify-content: flex-start;
 
-  a {
+  a, span {
     max-width: 130px;
   }
 
@@ -358,11 +358,26 @@ nav {
 
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
-    &:hover {
-      -webkit-filter: grayscale(0);
-      filter: grayscale(0);
-    }
   }
+
+  a:hover img {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+  }
+}
+
+// Links in running text
+.main-content {
+  p a,
+  li a {
+    text-decoration: underline;
+  }
+}
+
+.notice {
+  margin-top: 2rem;
+  font-size: 80%;
+  color: #888;
 }
 
 // LAYOUT

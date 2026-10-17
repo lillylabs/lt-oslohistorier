@@ -23,3 +23,13 @@
 <script src="/js/MainController.js"></script>
 <script src="/js/MapController.js"></script>
 
+<!-- Kit newsletter form, opens as a modal from links with data-formkit-toggle -->
+<script>
+  // Kit skips the modal's automatic trigger (scroll, exit, timer) while this
+  // date is in the future, so the modal only opens on click.
+  try {
+    localStorage.setItem('ck/forms/modal/c194c5a3eb/hideUntil', Date.now() + 365 * 24 * 60 * 60 * 1000);
+  } catch (e) {}
+</script>
+<script async data-uid="c194c5a3eb" src="https://lillylabs.kit.com/c194c5a3eb/index.js"></script>
+

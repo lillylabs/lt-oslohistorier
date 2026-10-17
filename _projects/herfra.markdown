@@ -13,7 +13,6 @@ partners:
   name: Lilly Labs
   max-width: 130px
 - logo-image: "/uploads/LutterOre_Logo_Facebook_Rosa.png"
-  url: http://lutterøre.no/
   name: Lutter Øre
   max-width: 135px
 - logo-image: "/uploads/logo_kote.png"
@@ -29,6 +28,6 @@ partners:
 HERFRA utforsker temaet tilhørighet gjennom undersøkelser av forskjellige Oslo-spesifikke situasjoner. Hvert punkt på kartet er knyttet til lyd eller tekst og gir en fortelling, betraktning eller bilde på opplevelsen av stedet du befinner deg.
 
 Prosjektet er et samarbeid mellom [Magasinet KOTE](http://www.magasinetkote.no/),
-[Lutter øre](http://lutterøre.no/) og [Lilly Labs](http://lillylabs.no/), og
+Lutter øre og [Lilly Labs](http://lillylabs.no/), og
 er utgitt som en del av [Oslo arkitekturtriennale 2016](http://oslotriennale.no/)
 sitt utvidet program.

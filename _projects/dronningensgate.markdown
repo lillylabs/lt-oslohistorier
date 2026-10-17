@@ -9,7 +9,6 @@ teaser: 'Dronningens gate er en av Oslos eldste gater. Bli med arkitekturhistori
 partners:
 - logo-image: "/uploads/LutterOre_Logo_Facebook_Rosa.png"
   name: Lutter øre
-  url: http://lutterøre.no/
 - logo-image: "/uploads/logo_lillylabs.png"
   name: Lilly Labs
   url: http://lillylabs.no
